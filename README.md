@@ -1,3 +1,8 @@
+### 𝚂𝚃𝙰𝚁𝚇𝙼𝚄𝚂𝙸𝙲𝙱𝙾𝚃
+### ᴀɴ ᴀᴅᴠᴀɴᴄᴇᴅ ᴍᴜsɪᴄ ʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ sᴛᴀʀ ᴡᴏʀʟᴅ .
+
+<p align="center"><a href="https://t.me/decant_club"><img src="https://te.legra.ph/file/125d5d3636db066a35df3.jpg"></a></p>
+
 
 <details>
 <summary><h3> Requirements 📝</h3></summary>
