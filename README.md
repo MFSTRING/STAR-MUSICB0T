@@ -3,6 +3,8 @@
 
 <p align="center"><a href="https://t.me/decant_club"><img src="https://te.legra.ph/file/125d5d3636db066a35df3.jpg"></a></p>
 
+### ɪғ ʏᴏᴜ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴛʜᴇɴ ᴄᴏɴᴛᴀᴄᴛ ᴍʏ ᴏᴡɴᴇʀ [sᴛᴀʀ ᴡᴏʀʟᴅ](https://t.me/STAROF_WORLD) 
+
 
 <details>
 <summary><h3> Requirements 📝</h3></summary>
