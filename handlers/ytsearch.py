@@ -21,7 +21,7 @@ async def ytsearch(_, message: Message):
     await message.delete()
     try:
         if len(message.command) < 2:
-            await message.reply_text("» ɢɪᴠᴇ sᴏᴍᴇ ᴛᴇxᴛ ᴛᴏ sᴇᴀʀᴄʜ ʙᴀʙʏ!")
+            await message.reply_text("» ɢɪᴠᴇ sᴏᴍᴇ ᴛᴇxᴛ ᴛᴏ sᴇᴀʀᴄʜ sɪʀ/ᴍᴀᴍ")
             return
         query = message.text.split(None, 1)[1]
         m = await message.reply_text("**ᴅᴏᴡɴʟᴏᴀᴅɪɴɢ**\n\n0% ▓▓▓▓▓▓▓▓▓▓▓▓ 100%")
