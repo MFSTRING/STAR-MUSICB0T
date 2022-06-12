@@ -90,7 +90,7 @@ python3 main.py # Run the bot
 
 ### ꜱᴜᴘᴘᴏʀᴛ ᴀɴᴅ ᴜᴘᴅᴀᴛᴇꜱ
 <a href="https://t.me/decant_club"><img src="https://img.shields.io/badge/ᴊᴏɪɴ-sᴜᴘᴘᴏʀᴛ%20sᴜᴘᴘᴏʀᴛ-black.svg?style=for-the-badge&logo=Telegram">
-<a href="https://t.me/ABOUT_STARWORLD_MF"><img src="https://img.shields.io/badge/ᴊᴏɪɴ-ᴄʜᴀɴɴᴇʟ%20ᴜᴘᴅᴀᴛᴇ-black.svg?style=for-the-badge&logo=Telegram">
+<a href="https://t.me/TEACH_TEAMOP"><img src="https://img.shields.io/badge/ᴊᴏɪɴ-ᴄʜᴀɴɴᴇʟ%20ᴜᴘᴅᴀᴛᴇ-black.svg?style=for-the-badge&logo=Telegram">
 
 ------------------------------------------------
 -------------------------------------------------
