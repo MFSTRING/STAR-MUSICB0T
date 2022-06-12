@@ -157,7 +157,7 @@ async def play(_, message: Message):
             return await starxmusic.edit(
                 "» ɢɪᴠᴇ ᴍᴇ ᴍᴜsɪᴄ ɴᴀᴍᴇ ᴛᴏ ᴘʟᴀʏ"
             )
-        await starxmusic.edit("⚡")
+        await starxmusic.edit("Hold on feating song from youtube server... Loading....!⚡")
         query = message.text.split(None, 1)[1]
         # print(query)
         try:
@@ -239,7 +239,7 @@ async def play(_, message: Message):
         disable_web_page_preview=True,
     )
 
-    return await darkxmusic.delete()
+    return await starxmusic.delete()
 
 @Client.on_callback_query(filters.regex("close_play"))
 async def in_close_play(_, query: CallbackQuery):
